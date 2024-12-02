@@ -5,3 +5,4 @@
 #支持指定架构 
 #--platform=linux/arm64 xiaoyaliu/alist
 flink:1.18.1-scala_2.12
+node:18-alpine
