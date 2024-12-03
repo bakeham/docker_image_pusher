@@ -10,3 +10,4 @@ hello-world
 busybox
 nginx
 spark
+redis:5.0.14
