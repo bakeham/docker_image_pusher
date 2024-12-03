@@ -9,3 +9,4 @@ node:18-alpine
 mysql5
 mysql6
 mysql8
+redis
