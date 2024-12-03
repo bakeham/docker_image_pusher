@@ -11,3 +11,4 @@ mysql6
 mysql8
 redis
 mysql5.7
+flink:1.15
