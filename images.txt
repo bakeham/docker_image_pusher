@@ -14,3 +14,4 @@ redis:5.0.14
 redis
 redis:5.0.14
 postgres:10
+postgres:15.5
