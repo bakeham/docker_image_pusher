@@ -16,3 +16,4 @@ redis:5.0.14
 postgres:10
 postgres:15.5
 redis:latest
+postgres:15-alpine
