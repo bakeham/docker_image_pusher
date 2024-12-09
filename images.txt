@@ -18,4 +18,3 @@ postgres:15.5
 redis:latest
 postgres:15-alpine
 redis:6-alpine
-semitechnologies/weaviate:latest
