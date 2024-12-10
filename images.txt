@@ -22,4 +22,5 @@
 #semitechnologies/weaviate:latest
 #ubuntu/squid:latest
 ###langgenius/dify-sandbox:0.2.10
-paddlecloud/paddleocr:latest
+##paddlecloud/paddleocr:latest
+paddlecloud/paddleocr:2.6-cpu-latest
