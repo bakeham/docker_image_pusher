@@ -20,3 +20,4 @@ postgres:15-alpine
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
 semitechnologies/weaviate:latest
+ubuntu/squid:latest
