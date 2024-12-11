@@ -24,4 +24,5 @@
 ###langgenius/dify-sandbox:0.2.10
 ##paddlecloud/paddleocr:latest
 ##paddlecloud/paddleocr:2.6-cpu-latest
-langgenius/dify-web:deploy-dev
+##langgenius/dify-web:deploy-dev
+langgenius/dify-web:0.7.1
