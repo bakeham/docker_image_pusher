@@ -34,4 +34,5 @@
 ##langgenius/qdrant:v1.7.3
 ##downloads.unstructured.io/unstructured-io/unstructured-api:latest
 ##opensearchproject/opensearch:latest
-opensearchproject/opensearch-dashboards:latest
+##opensearchproject/opensearch-dashboards:latest
+container-registry.oracle.com/database/free:latest
