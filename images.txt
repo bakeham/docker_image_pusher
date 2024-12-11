@@ -33,4 +33,5 @@
 ##tensorchord/pgvecto-rs:pg16-v0.3.0
 ##langgenius/qdrant:v1.7.3
 ##downloads.unstructured.io/unstructured-io/unstructured-api:latest
-opensearchproject/opensearch:latest
+##opensearchproject/opensearch:latest
+opensearchproject/opensearch-dashboards:latest
