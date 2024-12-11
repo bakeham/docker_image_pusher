@@ -36,4 +36,5 @@
 ##opensearchproject/opensearch:latest
 ##opensearchproject/opensearch-dashboards:latest
 ##container-registry.oracle.com/database/free:latest
-container-registry.oracle.com/database/free:latest
+##container-registry.oracle.com/database/free:latest
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
