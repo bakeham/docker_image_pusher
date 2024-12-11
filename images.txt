@@ -29,4 +29,5 @@
 ##langgenius/dify-api:0.7.1
 ##certbot/certbot:latest
 ##nginx:latest
-pgvector/pgvector:pg16
+##pgvector/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.3.0
