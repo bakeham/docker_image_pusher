@@ -27,4 +27,5 @@
 ##langgenius/dify-web:deploy-dev
 ##langgenius/dify-web:0.7.1
 ##langgenius/dify-api:0.7.1
-certbot/certbot:latest
+##certbot/certbot:latest
+nginx:latest
