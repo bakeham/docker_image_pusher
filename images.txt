@@ -38,4 +38,5 @@
 ##container-registry.oracle.com/database/free:latest
 ##container-registry.oracle.com/database/free:latest
 ##downloads.unstructured.io/unstructured-io/unstructured-api:latest
-ghcr.io/chroma-core/chroma:0.5.20
+##ghcr.io/chroma-core/chroma:0.5.20
+quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
