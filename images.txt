@@ -37,4 +37,5 @@
 ##opensearchproject/opensearch-dashboards:latest
 ##container-registry.oracle.com/database/free:latest
 ##container-registry.oracle.com/database/free:latest
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+##downloads.unstructured.io/unstructured-io/unstructured-api:latest
+ghcr.io/chroma-core/chroma:0.5.20
