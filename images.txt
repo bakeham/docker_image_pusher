@@ -47,4 +47,5 @@
 ##docker.elastic.co/kibana/kibana:8.14.3
 ##xprobe/xinference:latest
 ##ubuntu:20.04
+##ubuntu:20.04
 ubuntu:20.04
