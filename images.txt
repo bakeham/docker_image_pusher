@@ -48,4 +48,5 @@
 ##xprobe/xinference:latest
 ##ubuntu:20.04
 ##ubuntu:20.04
-ubuntu:20.04
+##ubuntu:20.04
+spark:2.4.1
