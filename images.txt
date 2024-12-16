@@ -50,4 +50,5 @@
 ##ubuntu:20.04
 ##ubuntu:20.04
 ##spark:2.4.1
-spark:latest
+##spark:latest
+nvidia/cuda:latest
