@@ -52,4 +52,5 @@
 ##spark:2.4.1
 ##spark:latest
 ##nvidia/cuda:latest
-nvidia/cuda:latest
+##nvidia/cuda:latest
+nvidia/cuda:
