@@ -58,4 +58,5 @@
 ##ollama/ollama:latest
 ##nvidia/cuda:10.0-base
 ##nvidia/cuda:latest
-nvidia/cuda:12.6.3-cudnn-runtime-ubuntu20.04
+##nvidia/cuda:12.6.3-cudnn-runtime-ubuntu20.04
+Nexus:latest
