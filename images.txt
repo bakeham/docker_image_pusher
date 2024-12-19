@@ -56,4 +56,5 @@
 ##nvidia/cuda:
 ##ubuntu:latest
 ##ollama/ollama:latest
-nvidia/cuda:10.0-base
+##nvidia/cuda:10.0-base
+nvidia/cuda:latest
