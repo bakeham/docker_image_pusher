@@ -53,4 +53,5 @@
 ##spark:latest
 ##nvidia/cuda:latest
 ##nvidia/cuda:latest
-nvidia/cuda:
+##nvidia/cuda:
+ubuntu:latest
