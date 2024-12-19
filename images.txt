@@ -62,4 +62,5 @@
 ##Nexus:latest
 ##nexus3:latest
 ##sonatype/nexus3/:latest
-sonatype/nexus3:latest
+##sonatype/nexus3:latest
+klakegg/hugo:latest-ext
