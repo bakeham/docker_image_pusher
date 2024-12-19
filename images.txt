@@ -61,4 +61,5 @@
 ##nvidia/cuda:12.6.3-cudnn-runtime-ubuntu20.04
 ##Nexus:latest
 ##nexus3:latest
-sonatype/nexus3/:latest
+##sonatype/nexus3/:latest
+sonatype/nexus3:latest
