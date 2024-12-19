@@ -54,4 +54,5 @@
 ##nvidia/cuda:latest
 ##nvidia/cuda:latest
 ##nvidia/cuda:
-ubuntu:latest
+##ubuntu:latest
+ollama/ollama:latest
