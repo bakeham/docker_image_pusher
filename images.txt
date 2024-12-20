@@ -66,4 +66,5 @@
 ##klakegg/hugo:latest-ext
 ##rancher/klipper-helm:latest
 ##Klipper Helm:v0.8.4
-Klipper LoadBalancer:v0.4.4
+##Klipper LoadBalancer:v0.4.4
+CoreDNS:v1.10.1
