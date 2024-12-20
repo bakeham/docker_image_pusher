@@ -63,4 +63,5 @@
 ##nexus3:latest
 ##sonatype/nexus3/:latest
 ##sonatype/nexus3:latest
-klakegg/hugo:latest-ext
+##klakegg/hugo:latest-ext
+rancher/klipper-helm:latest
