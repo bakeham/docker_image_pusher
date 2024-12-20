@@ -68,4 +68,5 @@
 ##Klipper Helm:v0.8.4
 ##Klipper LoadBalancer:v0.4.4
 ##CoreDNS:v1.10.1
-rancher/klipper-helm:v0.8.9
+##rancher/klipper-helm:v0.8.9
+rancher/klipper-lb:v0.4.4
