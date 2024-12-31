@@ -75,4 +75,5 @@
 ##ubuntu:latest
 ##mysql:8.3.0
 ##mysql:8.3.0
-xprobe/xinference:latest
+##xprobe/xinference:latest
+nvcr.io/nvidia/k8s-device-plugin:v0.14.5
