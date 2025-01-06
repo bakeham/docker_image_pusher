@@ -80,4 +80,5 @@
 ##nvcr.io/nvidia/k8s-device-plugin:v0.13.0
 ##nvidia/cuda:11.8.0-base
 ##xprobe/xinference:latest
+##nvidia/cuda:11.8.0-base-ubuntu20.04
 nvidia/cuda:11.8.0-base-ubuntu20.04
