@@ -82,4 +82,5 @@
 ##xprobe/xinference:latest
 ##nvidia/cuda:11.8.0-base-ubuntu20.04
 ##nvidia/cuda:11.8.0-base-ubuntu20.04
-nvidia/cuda:11.8.0-base-ubuntu20.04
+##nvidia/cuda:11.8.0-base-ubuntu20.04
+xprobe/xinference:latest
