@@ -78,4 +78,5 @@
 ##xprobe/xinference:latest
 ##nvcr.io/nvidia/k8s-device-plugin:v0.14.5
 ##nvcr.io/nvidia/k8s-device-plugin:v0.13.0
-nvidia/cuda:11.8.0-base
+##nvidia/cuda:11.8.0-base
+xprobe/xinference:latest
