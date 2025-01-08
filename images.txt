@@ -112,4 +112,5 @@
 ####downloads.unstructured.io/unstructured-io/unstructured-api:latest
 ##vllm/vllm-openai:latest
 ##docker.io/xprobe/xinference:latest
-python:3.9-slim:latest
+##python:3.9-slim:latest
+python:3.9-slim
