@@ -113,4 +113,5 @@
 ##vllm/vllm-openai:latest
 ##docker.io/xprobe/xinference:latest
 ##python:3.9-slim:latest
-python:3.9-slim
+##python:3.9-slim
+tabbyml/tabby:latest
