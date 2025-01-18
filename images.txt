@@ -114,4 +114,5 @@
 ##docker.io/xprobe/xinference:latest
 ##python:3.9-slim:latest
 ##python:3.9-slim
-tabbyml/tabby:latest
+##tabbyml/tabby:latest
+openjdk:11-jre-slim:latest
