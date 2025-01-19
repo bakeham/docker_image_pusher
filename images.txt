@@ -115,4 +115,5 @@
 ##python:3.9-slim:latest
 ##python:3.9-slim
 ##tabbyml/tabby:latest
-openjdk:11-jre-slim:latest
+##openjdk:11-jre-slim:latest
+openjdk:11-jre-slim
