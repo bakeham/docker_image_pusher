@@ -116,4 +116,5 @@
 ##python:3.9-slim
 ##tabbyml/tabby:latest
 ##openjdk:11-jre-slim:latest
-openjdk:11-jre-slim
+##openjdk:11-jre-slim
+mongo:4.4.29
