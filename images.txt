@@ -119,4 +119,5 @@
 ##openjdk:11-jre-slim
 ##mongo:4.4.29
 ##xprobe/xinference:latest-cpu
-xprobe/xinference:latest
+##xprobe/xinference:latest
+golangboyme/wxocr:latest
