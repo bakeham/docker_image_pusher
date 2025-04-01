@@ -121,4 +121,5 @@
 ##xprobe/xinference:latest-cpu
 ##xprobe/xinference:latest
 ##golangboyme/wxocr:latest
-golangboyme/wxocr:latest
+##golangboyme/wxocr:latest
+germannewsmaker/nexterm:1.0.3-OPEN-PREVIEW:latest
