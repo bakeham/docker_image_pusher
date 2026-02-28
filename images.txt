@@ -129,5 +129,7 @@
 ##bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
 ##bde2020/hadoop-datanode:2.0.0-hadoop2.7.4-java8
 ##bitnami/spark:3.2.4
-apache/hadoop:3.3.6
+##apache/hadoop:3.3.6
+bitnami/spark:3.2.4
+bitnami/hadoop:3.3.6
 
