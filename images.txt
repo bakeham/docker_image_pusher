@@ -125,4 +125,8 @@
 ##germannewsmaker/nexterm:1.0.3-OPEN-PREVIEW:latest
 ##germannewsmaker/nexterm:1.0.3-OPEN-PREVIEW
 ##rancher/rancher:latest
-rancher/rancher:latest
+##rancher/rancher:latest
+bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
+bde2020/hadoop-datanode:2.0.0-hadoop2.7.4-java8
+bitnami/spark:3.2.4
+
